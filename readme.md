@@ -37,6 +37,7 @@
 - Question 33 : Write a JavaScript program to display the current day and time in the following format. Today is : Tuesday. Current time is : 10 PM : 30 : 38
 - Question 34 : Write a program to reverse a string in Javascript 
 - Question 35 : Write a JavaScript program to make a Simple Calculator.
+- Question 36 : Print longest word within the string in JavaScript
 - More Questions to be added soon!
 
 
