@@ -35,6 +35,7 @@
 - Question 31 : Write a program to create JavaScript object using object literal.
 - Question 32 : JavaScript Program for MergeSort.
 - Question 33 : Write a JavaScript program to display the current day and time in the following format. Today is : Tuesday. Current time is : 10 PM : 30 : 38
+- Question 34 : Write a program to reverse a string in Javascript 
 - More Questions to be added soon!
 
 
